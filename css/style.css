@@ -1033,6 +1033,7 @@ a:focus, a:hover {
   display: inline-block;
   font-size: 20px;
   border-radius: 30px;
+  margin:0.4rem;
 }
 
 .portfolio-block .caption .search-icon :hover{
@@ -1042,6 +1043,7 @@ a:focus, a:hover {
 
 .portfolio-block .caption .search-icon i {
   line-height: 50px;
+  
 }
 
 
