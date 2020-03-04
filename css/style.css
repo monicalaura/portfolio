@@ -1038,13 +1038,14 @@ a:focus, a:hover {
 
 .portfolio-block .caption .search-icon {
   background: var(--main);
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   color: #fff;
   display: inline-block;
   font-size: 20px;
   border-radius: 30px;
   margin:0.4rem;
+  margin-bottom:0.6rem;
 }
 
 .portfolio-block .caption .search-icon :hover{
