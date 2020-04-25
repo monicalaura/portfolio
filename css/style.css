@@ -1096,7 +1096,8 @@ a:focus, a:hover {
 
 .client-info {
   margin: 0 auto;
-  width: 45%;
+  width: 55% !important;
+  text-align: left !important;
 }
 
 @media (max-width: 768px) {
